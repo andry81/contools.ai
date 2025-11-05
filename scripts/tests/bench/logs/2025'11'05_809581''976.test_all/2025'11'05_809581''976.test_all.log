@@ -1,0 +1,8 @@
+>"C:\WINDOWS\System32\wbem\wmic.exe" cpu get Caption,Name
+Caption                               Name                                       
+Intel64 Family 6 Model 58 Stepping 9  Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz  
+
+
+>test_math__01_iadd.bat
+Time spent: 0.351 secs
+

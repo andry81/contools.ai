@@ -1,0 +1,5 @@
+2025.11.05:
+* new: initial project directories and files
+* new: scripts/tools/math/qwen/iadd.bat: Qwen AI generated script (https://github.com/andry81/contools/discussions/32)
+* new: scripts/tests/bench/bat/test_math/test_math__01_add/test_math__01_iadd.bat: `iadd.bat` script bench test
+* new: scripts/tests/bench/logs/*.test_all/*.test_all.log: bench tests first log examples to compare with

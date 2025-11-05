@@ -1,0 +1,28 @@
+repositories:
+
+  _externals/contools:
+    type:         git
+    url:          https://github.com/andry81/contools
+    version:      master
+    subpaths:
+      - __init__
+      - _config
+      - scripts/__init__
+      - scripts/tools/__init__
+      - scripts/tools/build
+      - scripts/tools/cleanup
+      - scripts/tools/exec
+      - scripts/tools/std
+      - scripts/tools/testlib
+      - scripts/tools/time
+      - scripts/tools/wmi
+      - tools
+
+  _externals/contools--utils:
+    type:         git
+    url:          https://github.com/andry81/contools--utils
+    version:      master
+    subpaths:
+      - __init__
+      - _config
+      - bin
