@@ -1,4 +1,7 @@
 2025.11.05:
+* fixed: README.md: discussions moved from `contools` project
+
+2025.11.05:
 * new: initial project directories and files
 * new: scripts/tools/math/qwen/iadd.bat: Qwen AI generated script (https://github.com/andry81/contools/discussions/32)
 * new: scripts/tests/bench/bat/test_math/test_math__01_add/test_math__01_iadd.bat: `iadd.bat` script bench test

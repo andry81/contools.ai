@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andry81/contools.ai/discussions/categories/ai-models-and-engines">
+  <a href="https://github.com/andry81/contools.ai/discussions">
     <img src="https://img.shields.io/github/discussions/andry81/contools.ai?logo=github&label=contools.ai%7Cdiscussions&color=blue" valign="middle" alt="discussions|all" /></a>
 </p>
 
