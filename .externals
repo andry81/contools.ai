@@ -16,7 +16,6 @@ repositories:
       - scripts/tools/testlib
       - scripts/tools/time
       - scripts/tools/wmi
-      - tools
 
   _externals/contools--utils:
     type:         git
