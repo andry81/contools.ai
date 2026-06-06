@@ -28,4 +28,4 @@
 
 upath CONTOOLS_AI_ROOT                          ="%CONTOOLS_AI_PROJECT_ROOT%/scripts/tools"
 
-once CHCP                                       =65001
+#once CHCP                                       =65001
