@@ -1,3 +1,12 @@
+2026.08.03:
+* fixed: scripts/tests/__init__/__init__.bat: tests run fixup
+* new: scripts/tools/math/qwen/Qwen3.8-Max/AddBig.bat: Qwen-3.8-Max AI generated script (https://github.com/andry81/contools/discussions/32)
+* new: scripts/tests/bench/bat/test_math/test_math__01_add/test_math__11_iadd_[Qwen3.8-Max].bat: `AddBig.bat` script bench test
+* new: tools/qwen/thinking-output-md-formatter.sh: shell script to markdown format of AI thinking output
+* changed: scripts/tests/bench/logs/*.test_all/*.test_all.log: log update
+* refactor: scripts/tools/math/qwen: minor refactor
+* refactor: scripts/tests/bench/bat/test_math/test_math__01_add: bench tests refactor
+
 2026.06.06:
 * changed: __init__/__init__.bat: code cleanup
 

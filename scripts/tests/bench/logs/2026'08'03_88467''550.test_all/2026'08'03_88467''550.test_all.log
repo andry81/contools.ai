@@ -3,6 +3,9 @@ Caption                               Name
 Intel64 Family 6 Model 58 Stepping 9  Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz  
 
 
->test_math__01_iadd.bat
-Time spent: 0.351 secs
+>test_math__01_iadd_[Qwen3-Coder].bat
+Time spent: 0.378 secs
+
+>test_math__11_iadd_[Qwen3.8-Max].bat
+Time spent: 0.048 secs
 
