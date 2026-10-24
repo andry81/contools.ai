@@ -31,7 +31,7 @@ rem call "%%CONTOOLS_ROOT%%/std/echo_var.bat" RETURN_VALUE ">"
 rem echo;
 
 rem CPU name to compare bench tests
-call "%%CONTOOLS_BUILD_TOOLS_ROOT%%/call.bat" "%%SystemRoot%%\System32\wbem\wmic.exe" cpu get Caption,Name
+call "%%CONTOOLS_BUILD_TOOLS_ROOT%%/call_.bat" "%%SystemRoot%%\System32\wbem\wmic.exe" cpu get Caption,Name
 
 rem The caller can continue after this exit.
 exit /b 0

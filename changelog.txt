@@ -1,3 +1,6 @@
+2026.10.24:
+* changed: *.bat: switched to use `call_.bat` script
+
 2026.08.03:
 * fixed: scripts/tests/__init__/__init__.bat: tests run fixup
 * new: scripts/tools/math/qwen/Qwen3.8-Max/AddBig.bat: Qwen-3.8-Max AI generated script (https://github.com/andry81/contools/discussions/32)
